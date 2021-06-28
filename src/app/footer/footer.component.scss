@@ -1,0 +1,163 @@
+.cc-container
+{
+max-width: 100%;
+}
+.line
+{
+height: 20px;
+background: transparent linear-gradient(90deg, #FFBA7D 0%, #FFE94E 15%, #AAFF7A 29%, #55D5EE 44%, #6A7AE2 58%, #EE61F3 71%, #FF4DA0 83%, #FF4B4B 100%) 0% 0% no-repeat padding-box;
+}
+.media
+{
+font: normal normal bold 103px/79px Script MT;
+}
+.left-media
+{
+background: url("./../../assets/image/Group 269.png");
+background-size:cover;
+}
+.list-class li{
+display: inline-block;
+padding: 0px 22px;
+}
+li.listt {
+font-size: 15px;
+padding: 0px 0px 12px 0px;
+}
+.copy-p
+{
+    top: -27px;
+position: relative;
+}
+////////*media query*//////////////
+@media only screen and (min-width : 320px) and (max-width : 400px) {
+li.company h3 {
+font-size: 25px;
+}
+li.listt {
+font-size: 19px;
+display: inline-block;
+padding: 0px 10px;
+}
+.media{
+font: normal normal bold 63px/50px Script MT;
+}
+.list-class li{
+padding: 10px 10px;
+}
+.company
+{
+padding-left:10px;
+}
+.un-or-li {
+padding-left: 25px;
+}
+.copyright img  {
+width: 100% !important;
+padding-top: 35px;
+}
+.copy-p{
+    padding-left: 15px;
+}
+}
+@media only screen and (min-width : 400px) and (max-width : 500px) {
+li.company h3 {
+font-size: 28px;
+}
+li.listt {
+font-size: 20px;
+display: inline-block;
+padding: 0px 10px;
+}
+.media{
+font: normal normal bold 79px/60px Script MT;
+}
+.list-class li{
+padding: 10px 15px;
+}
+.company
+{
+padding-left:10px;
+}
+.un-or-li {
+padding-left: 25px;
+}
+ul.list-class.list-unstyled.text-center.text-white.pt-5 {
+font-size: 14px;
+}
+.copyright img  {
+width: 100% !important;
+padding-top: 35px;
+}
+.copy-p{
+top: -35px;
+padding-left: 30px;
+}
+}
+@media only screen and (min-width : 500px) and (max-width : 600px) {
+li.company h3 {
+font-size: 28px;
+}
+li.listt {
+font-size: 20px;
+display: inline-block;
+padding: 0px 10px;
+}
+.media{
+font: normal normal bold 96px/71px Script MT;
+}
+.list-class li{
+padding: 10px 22px;
+}
+.company
+{
+padding-left:10px;
+}
+.un-or-li {
+padding-left: 25px;
+}
+ul.list-class.list-unstyled.text-center.text-white.pt-5 {
+font-size: 14px;
+}
+.copyright img  {
+width: 100% !important;
+padding-top: 35px;
+}
+.copy-p{
+    top: -45px;
+    font-size: 21px;
+    padding-left: 35px;
+}
+}
+@media only screen and (min-width : 600px) and (max-width : 767px) {
+li.company h3 {
+font-size: 30px;
+}
+li.listt {
+font-size: 21px;
+display: inline-block;
+padding: 0px 10px;
+}
+.media{
+    font: normal normal bold 119px/89px Script MT;
+}
+.list-class li{
+padding: 10px 25px;
+font-size: 14px;            }
+.company
+{
+padding-left:10px;
+}
+.un-or-li {
+padding-left: 25px;
+}
+.copyright img  {
+width: 100% !important;
+padding-top: 35px;
+}
+.copy-p{
+    padding-left: 40px;
+    top: -49px;
+    font-size: 22px;
+}
+}

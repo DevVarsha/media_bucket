@@ -1,0 +1,464 @@
+.picture  {
+font: normal normal 600 30px/87px Segoe UI;
+color: #47595F;
+}
+.name  {
+font: normal normal 500 13px/30px Segoe UI;
+color: #47595F;
+}
+.name1  {
+  font: normal normal 500 17px/30px Segoe UI;
+  color: #47595F;
+  }
+i.fa.fa-star {
+color: #FFC756;
+font-size: 16px;
+}
+// home
+.s01 {
+background: url("./../../assets/image/Group 270.png");
+background-size: cover;
+}
+.inner-form  {    
+padding-bottom: 400px;
+padding-top: 60px;
+}
+.media-p  {
+font: normal normal normal 18px/41px Segoe UI;
+}
+.s01 form .inner-form .input-field input {
+width: 34%;
+display: block;
+top: 55px;
+position: relative;
+border-radius: 50px;
+margin: 0 auto;
+font-size:20px;
+}
+.s01 form .inner-form .input-field input:hover, .s01 form .inner-form .input-field input:focus {
+box-shadow: none;
+outline: 0;
+font-size:20px;
+}
+.media  {
+  font: normal normal bold 69px/58px Script MT;
+  padding-top: 70px;
+}
+.search1  {
+position: relative;
+left: 63%;
+top: 11%;
+cursor: pointer;
+}
+::-webkit-input-placeholder  {
+font-size: 20px;
+}
+// picture of the day
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Rubik:300,400,500,700,900');
+.bbb_viewed_nav1 i {
+color: #FF3556;
+top: -10px;
+right: 25px;
+}
+.you
+{
+  font-size: 12px;
+  font-weight: 100;}
+.card  {
+box-shadow: 0 4px 8px 0 rgba(87, 85, 85, 0.2);
+border-radius: 20px;
+margin: 0 auto;
+border: none;
+}
+.card:hover  {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.h3-text  {
+font: normal normal 600 18px/20px Segoe UI;
+color: #47595F;
+}
+.p-text  {
+  font: normal normal normal 15px/21px Segoe UI;
+  color: #89A5AE;
+}
+.tcb-product-photo {
+height: 87px;
+}
+.text-block  {
+  top: -97%;
+  background: transparent linear-gradient(180deg, #47595F00 0%, #2C383B47 33%, #000000 100%) 0% 0% no-repeat padding-box;
+  border-radius: 9px;
+  padding-bottom: 13px !important;
+}
+.top  {
+background: transparent linear-gradient(180deg, #47595F00 0%, #2C383B47 33%, #000000 100%) 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 0px 20px;
+top: -92px;
+}
+.heart-icon  {
+font-size: 15px;
+top: -16px;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Rubik:300,400,500,700,900');
+.bbb_viewed_nav i  {
+background-color: #FF3556;
+top: 27px;
+}
+
+// Featured photoes 
+.define-h
+{
+  height: 300px;
+}
+.top1  {
+  background: transparent linear-gradient(180deg, #47595F00 0%, #2C383B47 33%, #000000 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 14px 15px;
+  top: -39px;
+  display: none;
+}
+.slide11:hover .top1{
+display: block;
+}
+.slide2  {
+padding: 10px 10px 10px 30px;
+width: 99%;
+}
+.cc1-container  {
+background-color: #3D3D3D;
+max-width: 100%;
+}
+i.fa.fa-star  {
+color: #FFC756;
+padding-right: 4px;
+}
+img.top-img  {
+width: 70%;
+margin: 0 auto;
+}
+.camera  {
+top: 24%;
+width: 89%;
+left: -14%;
+}
+.row.right-slider {
+background-color: #545C6C;
+}
+p.view-text  {
+font: normal normal normal 13px/24px Segoe UI;
+top: 220px;
+padding-left: 34%;
+}
+button.btn.top-btn  {
+top: 249px;
+left: 148px;
+}
+
+// graphic bucket
+.graphic-section li  {
+display: inline-block;
+list-style: none;
+padding: 28px;
+}
+.bucket-img  {
+margin: 0 auto;
+}
+.line  {
+background: transparent linear-gradient(90deg, #FFBA7D00 0%, #FFCD6A26 15%, #FFE94E75 27%, #AAFF7A 38%, #55D5EE 47%, #6A7AE2 56%, #EE61F3 67%, #FF4DA0B8 75%, #FF4C8833 82%, #FF4C7017 90%, #FF4B4B00 100%) 0% 0% no-repeat padding-box;
+height: 4px;
+width: 23%;
+margin: 0 auto;
+}
+.btn-g  {
+background-color: #FF3556;
+width: 100px;
+position: relative;
+top: 104px;
+}
+//  file bucket
+.mobile-file  {
+  display: none;
+}
+.line-file  {
+background: transparent linear-gradient(270deg, #FFBA7D00 0%, #FFCD6A26 15%, #FFE94E75 27%, #AAFF7A 39%, #55D5EE 48%, #6A7AE2 61%, #EE61F3 71%, #FF4DA0 83%, #FF4B4B 100%) 0% 0% no-repeat padding-box;
+height: 4px;
+width: 43.5%;
+}
+.line-file1  {
+background: transparent linear-gradient(90deg, #FFBA7D00 0%, #FFCD6A26 15%, #FFE94E75 27%, #AAFF7A 39%, #55D5EE 48%, #6A7AE2 61%, #EE61F3 71%, #FF4DA0 83%, #FF4B4B 100%) 0% 0% no-repeat padding-box;
+height: 4px;
+width: 43.5%;
+}
+.file-bucket  {
+position: relative;
+top: -36px;
+}
+#hexcontainer  {
+position:relative;
+margin: 0px 0 52px   0;
+padding:20px 0;
+text-align: center;
+}
+.apple  {
+width: 5%;
+position: relative;
+right: 63px;
+}
+.apple1  {
+width: 5%;
+left: 61px;
+}
+.one  {
+top: 23px;
+left: 3px;
+width: 5%;
+}
+.two  {
+top: -64px;
+right: 101px;
+width: 5%;
+}
+.three  {
+top: -24px;
+right: 40px;
+width: 5%;
+}
+.four  {
+top: -24px;
+width: 5%;
+left: 58px;
+}
+.five  {
+top: -64px;
+left: 123px;
+width: 5%;
+}
+.six  {
+top: -110px;
+right: 76px;
+width: 5%;
+}
+.seven  {
+top: -50px;
+right: 41px;
+width: 10%;
+}
+.eight  {
+top: -110px;
+width: 5.5%;
+right: 11px;
+}
+.nine  {
+top: -50px;
+width: 5%;
+left: 50px;
+}
+.ten  {
+top: -110px;
+width: 5%;
+left: 90px;
+}
+.file  {
+top: 0px;
+left: 8px;
+width: 5%;
+}
+
+.need
+{
+  top: -92px;
+text-align: center;
+ font: normal normal normal 30px/87px Segoe UI;
+ color: #89A5AE;
+}
+// Professionals
+.card-img-pro  {
+width: 33%;
+}
+.name-pro  {
+font: normal normal normal 25px/40px Segoe UI;
+color: #47595F;
+}
+p.text  {
+font: normal normal normal 13px/10px Segoe UI;
+color: #FF3556;
+font-weight: 500;
+}
+// Our-parteners
+.gray li  {
+list-style: none;
+display: inline-block;
+width: 20%;
+}
+.partener-responsive  {
+margin: 0 auto;
+}
+.gray-img  {
+margin: 0 auto;
+filter: grayscale(100%);
+}
+.gray-img:hover  {
+  margin: 0 auto;
+  filter: grayscale(0%);
+  }
+.line-part  {
+background: transparent linear-gradient(270deg, #FFBA7D00 0%, #FFCD6A26 15%, #FFE94E75 27%, #AAFF7A 39%, #55D5EE 48%, #6A7AE2 61%, #EE61F3 71%, #FF4DA0 83%, #FF4B4B 100%) 0% 0% no-repeat padding-box;
+height: 4px;
+width: 42%;
+}
+.line1-part  {
+background: transparent linear-gradient(90deg, #FFBA7D00 0%, #FFCD6A26 15%, #FFE94E75 27%, #AAFF7A 39%, #55D5EE 48%, #6A7AE2 61%, #EE61F3 71%, #FF4DA0 83%, #FF4B4B 100%) 0% 0% no-repeat padding-box;
+height: 4px;
+width: 42%;
+}
+.file  {
+position: relative;
+top: -36px;
+}
+// Join
+.form-control {
+height: calc(3rem + .75rem + 2px);
+box-shadow: none;
+}
+
+h3.login-head {
+color: #47595F;
+}
+span.label-text {
+font-size: 14px;
+}
+.sign-btn  {
+background-color: #FF3B76;
+font-size:15px;
+}
+h2.want  {
+font: normal normal 500 35px/78px Segoe UI;
+color: #47595F;
+}
+.want-p  {
+font: normal normal normal 17px/31px Segoe UI;
+color: #89A5AE;
+}
+.join-form ::-webkit-input-placeholder {
+font-size: 12px;
+}
+.join-form input  {
+font-size:12px;
+}
+.join-form input:focus  {
+box-shadow: none;
+outline: 0;
+font-size:12px;
+}
+// Media Query
+@media screen and (max-width : 767px)  {
+  .web   {
+    display: none;
+  }
+  .mobile-file    {
+    display: block;
+  }
+.s01 {
+min-height: 95vh;
+}
+input#search {
+width: 83% !important;
+position: relative;
+top:25px;
+}
+.search1  {
+position: relative;
+left: 81%;
+top: -25px;
+}
+.inner-form  {    
+padding-bottom: 0px;
+}
+.picture  {
+font: normal normal 600 27px/85px Segoe UI;
+color: #47595F;
+}
+.name  {
+  font: normal normal 500 20px/30px Segoe UI;
+}
+.h3-text, .p-text  {
+padding-left: 10px;
+}
+.vegetarian-picture  {
+border-radius: 10px;
+}
+.top   {
+border-radius: 0px 0px 10px 10px;
+}
+.slide2  {
+padding: 0px; 
+width: 100%;
+}
+.web-section  {
+display: none;
+}
+.gray li  {
+list-style: none;
+width: 100%;
+margin: 58px 0px;
+}
+.line  {
+  width: 47%;
+}
+.need  {
+  top: -45px;
+  font: normal normal normal 24px/64px Segoe UI;
+}
+.card-img-pro  {
+  width: 100%;
+  padding-top: 20px;
+}
+h2.want  {
+  text-align: center;
+}
+.top-photographers  {
+  text-align: center;
+  margin-left: 0 !important;
+}
+} 
+@media screen and (max-width:1144px)
+{
+  .line-file1{
+    width: 42.5%;
+}
+.line-file{
+  width: 42.5%;
+}
+.line1-part{
+  width: 41%;
+}
+.line-part{
+width: 41%;
+}
+}
+@media screen and (max-width:1000px)
+{
+  .line-file1{
+    width: 40.5%;
+}
+.line-file{
+  width: 40%;
+}
+}
+@media screen and (max-width:976px)
+{
+.line1-part{
+  width: 39%;
+}
+.line-part{
+  width: 40%;
+}
+}
+@media screen and (max-width:837px)
+{
+.line1-part{
+  width: 38%;
+}
+.line-part{
+  width: 38%;
+}
+}
